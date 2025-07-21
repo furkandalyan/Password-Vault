@@ -1,0 +1,7 @@
+cryptography
+pyperclip
+tk
+qrcode
+pillow
+zxcvbn
+ttkbootstrap 
